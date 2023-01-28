@@ -18,8 +18,6 @@
                          echo 'hello from jenkins'
                        }
       }
-
-
     }
 
   post{
